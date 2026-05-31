@@ -22,7 +22,7 @@
 
 ```javascript
 const araf = {
-  name:       "A. Mohammed Araf",
+  name:       " Jasi Araf",
   role:       "Front-End Developer & UI/UX Designer",
   location:   "Colachel, Kanyakumari, Tamil Nadu 🇮🇳",
   education:  "MCA @ PET Engineering College (2023–2025)",
