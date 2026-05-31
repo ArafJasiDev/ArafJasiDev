@@ -374,7 +374,7 @@ Figma · Adobe Suite · Canva
 | 📧 **Email** | [jasimayasmin78@gmail.com](mailto:jasimayasmin78@gmail.com) | [arafbinaskeenmca@gmail.com](mailto:arafbinaskeenmca@gmail.com) |
 | 💼 **LinkedIn** | [jasima-yasmin](https://www.linkedin.com/in/jasima-yasmin-b9740b279) | [a-mohammedaraf](https://www.linkedin.com/in/a-mohammedaraf-b-c-a-m-c-a-41651a361) |
 | 🌐 **Portfolio** | [TryHackMe](https://tryhackme.com/p/jasimayasmin78) | [Behance](https://www.behance.net/arafbinaskeenm) |
-| 📍 **Location** | Nagercoil, Tamil Nadu | Colachel, Kanyakumari |
+| 📍 **Location** | Dindigul, Tamil Nadu | Colachel, Kanyakumari |
 | 📞 **Phone** | +91 89407 59666 | +91 75300 85796 |
 
 </div>
